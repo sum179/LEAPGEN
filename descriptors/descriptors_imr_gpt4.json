@@ -1,0 +1,1214 @@
+{
+  "Goldfish": [
+    "Small, typically orange fish with a round body.",
+    "Has flowing fins and a split tail, often seen in aquariums.",
+    "Body can vary from short and round to elongated.",
+    "Features large, prominent eyes."
+  ],
+  "Great White Shark": [
+    "Large, robust body with a conical snout.",
+    "Grayish dorsal side with a white underside.",
+    "Triangular, serrated teeth visible when mouth is open.",
+    "Large, curved dorsal fin and powerful tail."
+  ],
+  "Hammerhead Shark": [
+    "Distinctive hammer-shaped head with a broad, flattened front.",
+    "Grayish or brownish body with a tapered tail.",
+    "Large, lateral gill slits and prominent dorsal fin.",
+    "Eyes located at the ends of the hammerhead for wide vision."
+  ],
+  "Stingray": [
+    "Flattened, diamond-shaped body with smooth skin.",
+    "Long, slender tail often with a venomous spine.",
+    "Can be various colors, including gray, brown, or black.",
+    "Wide pectoral fins that extend from the head to the tail."
+  ],
+  "Hen": [
+    "Medium-sized bird with a round body and short legs.",
+    "Typically brown, white, or black plumage.",
+    "Has a red comb and wattles on the head.",
+    "Beak is short and conical, suited for pecking."
+  ],
+  "Ostrich": [
+    "Large, flightless bird with long legs and neck.",
+    "Feathers are mostly black with white wings and tail.",
+    "Long, thin legs with large, two-toed feet.",
+    "Large eyes and a small head relative to body size."
+  ],
+  "Goldfinch": [
+    "Small bird with bright yellow plumage and black wings.",
+    "Has a short, conical beak for seed eating.",
+    "Distinctive black cap on its head.",
+    "Red face and white wing bars."
+  ],
+  "Junco": [
+    "Small, gray or brown bird with a white belly.",
+    "Dark head and a small, pointed beak.",
+    "Tail feathers are white or light gray.",
+    "Rounded body and short legs."
+  ],
+  "Bald Eagle": [
+    "Large bird of prey with a white head and tail.",
+    "Dark brown body and wings with a yellow beak.",
+    "Large, hooked beak and strong talons.",
+    "White plumage on the head and tail stands out against dark body."
+  ],
+  "Vulture": [
+    "Large bird with a bare head and neck, often red or black.",
+    "Broad wings and a powerful beak.",
+    "Dark, often mottled plumage with a robust body.",
+    "Large wingspan and strong soaring capabilities."
+  ],
+  "Newt": [
+    "Small amphibian with a slender body and tail.",
+    "Usually brown, green, or orange with spots or stripes.",
+    "Smooth skin with a slightly shiny appearance.",
+    "Four legs with webbed feet and a long, slender tail."
+  ],
+  "Axolotl": [
+    "Small aquatic salamander with feathery external gills.",
+    "Typically pink or white with dark eyes.",
+    "Lacks a tail fin, has a rounded body.",
+    "Feathery gills extend from the sides of the head."
+  ],
+  "Tree Frog": [
+    "Small frog with a bright green or brown body.",
+    "Has adhesive pads on its toes for climbing.",
+    "Smooth or slightly warty skin with a rounded body.",
+    "Large, bulging eyes with horizontal pupils."
+  ],
+  "Iguana": [
+    "Large lizard with a spiny ridge along the back.",
+    "Typically green or gray with a long tail.",
+    "Distinctive dewlap (flap of skin) under the chin.",
+    "Has strong, sturdy legs and a robust body."
+  ],
+  "African Chameleon": [
+    "Medium-sized lizard with a prehensile tail.",
+    "Ability to change colors based on mood and environment.",
+    "Distinctive, zygodactylous feet (two toes pointing forward, two backward).",
+    "A long, slender body with a curling tail."
+  ],
+  "Cobra": [
+    "Large snake with a distinctive hood around its head.",
+    "Usually brown, black, or olive with variable patterns.",
+    "Has a narrow head and elongated body.",
+    "Hood expands when threatened, revealing a distinctive pattern."
+  ],
+  "Scorpion": [
+    "Arachnid with a segmented, elongated body and pincers.",
+    "Features a curved, venomous tail ending in a stinger.",
+    "Typically brown, black, or yellow.",
+    "Large pincers and multiple legs for movement."
+  ],
+  "Tarantula": [
+    "Large, hairy spider with a robust body.",
+    "Typically brown, black, or reddish with a hairy texture.",
+    "Eight long legs and large fangs.",
+    "Distinctive pattern of hairs on the abdomen."
+  ],
+  "Centipede": [
+    "Long, segmented body with numerous legs.",
+    "Typically brown or reddish with a flattened body.",
+    "Each body segment has one pair of legs.",
+    "Head features large, often venomous pincers (mandibles)."
+  ],
+  "Peacock": [
+    "Large bird with a vivid, iridescent tail plumage.",
+    "Male peacocks have colorful, eye-spotted feathers.",
+    "Distinctive, long tail feathers used in display.",
+    "Body feathers are less colorful but can be blue, green, or brown."
+  ],
+  "Lorikeet": [
+    "Small parrot with bright, vibrant plumage.",
+    "Typically features a mix of green, blue, red, and yellow.",
+    "Has a brush-tipped tongue for feeding on nectar.",
+    "Short, square tail and compact body."
+  ],
+  "Hummingbird": [
+    "Tiny bird with iridescent feathers and rapid wing beats.",
+    "Can hover in place and has a long, slender beak.",
+    "Brightly colored plumage in shades of green, blue, or red.",
+    "Small size and rapid wing movement make it distinctive."
+  ],
+  "Toucan": [
+    "Large beak and colorful plumage.",
+    "Beak is long, wide, and often brightly colored.",
+    "Body is mostly black with bright, contrasting colors.",
+    "Short legs and a distinctive, oversized beak."
+  ],
+  "Duck": [
+    "Medium-sized waterfowl with a broad, flat bill.",
+    "Webbed feet and a rounded body.",
+    "Typically features a mix of brown, gray, or white plumage.",
+    "Often seen with a short neck and a distinct quack."
+  ],
+  "Goose": [
+    "Larger than ducks with a long neck and webbed feet.",
+    "Typically has a gray, brown, or white body.",
+    "Features a distinct honking call.",
+    "Longer neck and more upright posture compared to ducks."
+  ],
+  "Black Swan": [
+    "Large waterfowl with all-black plumage and a red bill.",
+    "Long, curved neck and elegant swimming posture.",
+    "Has a distinctive, haunting call.",
+    "Black feathers with contrasting red bill and eye color."
+  ],
+  "Koala": [
+    "Small marsupial with a round, furry face and large ears.",
+    "Gray fur with white patches on the chest and inner ears.",
+    "Distinctive, large nose and strong limbs for climbing.",
+    "Body is stocky and adapted for a tree-dwelling lifestyle."
+  ],
+  "Jellyfish": [
+    "Gelatinous, translucent body with tentacles.",
+    "Typically bell-shaped and can vary in color from clear to pink or blue.",
+    "Tentacles extend from the body for capturing prey.",
+    "Often seen drifting in water, pulsating with movement."
+  ],
+  "Snail": [
+    "Small mollusk with a coiled, spiral shell.",
+    "Body is soft and often moist, with a slime trail.",
+    "Shell can be a variety of colors, often brown or tan.",
+    "Moves slowly using a muscular foot."
+  ],
+  "Lobster": [
+    "Large crustacean with a hard, segmented shell and claws.",
+    "Typically reddish-brown with large pincers.",
+    "Long, spiny tail and multiple legs.",
+    "Distinctive antennae and robust body."
+  ],
+  "Hermit Crab": [
+    "Small crab that uses a borrowed shell for protection.",
+    "Soft abdomen with a hard, spiral shell.",
+    "Color varies from brown to orange or red.",
+    "Has large pincers and small, thin legs."
+  ],
+  "Flamingo": [
+    "Large wading bird with pink or reddish plumage.",
+    "Long legs and a distinctive, downturned beak.",
+    "Feathers are bright pink due to diet.",
+    "Often seen standing on one leg and feeding in shallow water."
+  ],
+  "American Egret": [
+    "Large wading bird with all-white plumage.",
+    "Long neck and legs with a slender body.",
+    "Sharp, yellow beak and dark legs.",
+    "Graceful, often seen hunting in shallow water."
+  ],
+  "Pelican": [
+    "Large bird with a distinctive long bill and large throat pouch.",
+    "Mostly white or light-colored with a long wingspan.",
+    "Bill is long and equipped with a large pouch for catching fish.",
+    "Feet are webbed and suited for swimming."
+  ],
+  "King Penguin": [
+    "Large penguin with black and white plumage and bright orange patches.",
+    "Has a streamlined body adapted for swimming.",
+    "Longer and thinner beak compared to other penguins.",
+    "Bright orange coloring on the neck and sides of the head."
+  ],
+  "Grey Whale": [
+    "Large marine mammal with a mottled gray body.",
+    "Has a broad, flat head and a series of knobby, rough patches.",
+    "Humpbacked appearance with a series of dorsal ridges.",
+    "Tail flukes are deeply notched and triangular."
+  ],
+  "Killer Whale": [
+    "Large, robust dolphin with black and white coloration.",
+    "Distinctive white patches above the eyes and near the dorsal fin.",
+    "Has a large, curved dorsal fin and a powerful, stocky body.",
+    "White belly contrasts sharply with black dorsal side."
+  ],
+  "Sea Lion": [
+    "Large pinniped with a streamlined body and external ear flaps.",
+    "Has a short, brown or gray coat and webbed feet.",
+    "Male has a distinctive mane of thicker fur.",
+    "Can often be seen balancing on their hind flippers."
+  ],
+  "Chihuahua": [
+    "Tiny dog breed with a compact body and large, rounded eyes.",
+    "Coat can be short or long, in a variety of colors.",
+    "Small, erect ears and a distinctive apple-shaped head.",
+    "Has a sleek, agile body with short legs."
+  ],
+  "Shih Tzu": [
+    "Small toy breed with a long, flowing coat.",
+    "Flat face with a short muzzle and large, round eyes.",
+    "Tail curls over its back and is covered in long fur.",
+    "Compact body with a sturdy stance and short legs."
+  ],
+  "Afghan Hound": [
+    "Tall, elegant breed with a long, silky coat.",
+    "Distinctive topknot of hair on the head.",
+    "Narrow head and deep-set eyes with a refined appearance.",
+    "Long, flowing hair covers the body and legs."
+  ],
+  "Basset Hound": [
+    "Short-legged breed with a long body and large, droopy ears.",
+    "Heavy build with a wrinkled face and large, sad eyes.",
+    "Short, smooth coat that is often tricolor or bicolor.",
+    "Distinctive long ears and a droopy expression."
+  ],
+  "Beagle": [
+    "Medium-sized hound with a compact body and long ears.",
+    "Short coat that is usually in a variety of color patterns, such as tri-color.",
+    "Bright, expressive eyes and a wagging tail.",
+    "Has a distinct, rounded head and a powerful sense of smell."
+  ],
+  "Bloodhound": [
+    "Large hound with a loose, wrinkled skin and long ears.",
+    "Features a distinctive, deep bark and a long, powerful nose.",
+    "Long, hanging skin around the face and throat.",
+    "Heavy build with a drooping expression."
+  ],
+  "Italian Greyhound": [
+    "Small, slender breed with a graceful, elongated body.",
+    "Short coat in various solid colors, often with a smooth, sleek appearance.",
+    "Long, slender legs and a narrow, elegant head.",
+    "Distinctive, delicate build with a fine, smooth coat."
+  ],
+  "Whippet": [
+    "Medium-sized sighthound with a streamlined body and short coat.",
+    "Has a smooth, muscular build and long legs.",
+    "Typically seen in various solid or patched colors.",
+    "Narrow head and a graceful, athletic build."
+  ],
+  "Weimaraner": [
+    "Large, sleek dog with a short, gray coat.",
+    "Distinctive, light-colored eyes and a strong, athletic build.",
+    "Has a long, graceful neck and a smooth, shiny coat.",
+    "Large ears and a well-defined, muscular body."
+  ],
+  "Yorkshire Terrier": [
+    "Small toy breed with a long, silky coat.",
+    "Typically has a blue and tan coat with a distinctive topknot.",
+    "Small, compact body with a long muzzle and big, expressive eyes.",
+    "Tail is often docked and covered with long fur."
+  ],
+  "Boston Terrier": [
+    "Small breed with a short, smooth coat and distinctive tuxedo-like markings.",
+    "Large, round eyes and a flat, square muzzle.",
+    "Compact, muscular body with a short tail.",
+    "Distinctive bat-like ears and a characteristic smiling expression."
+  ],
+  "Scottish Terrier": [
+    "Small, sturdy breed with a distinctive, wiry coat.",
+    "Features a prominent beard and eyebrows.",
+    "Compact, muscular body with short legs and a tail that stands erect.",
+    "Typically black, but can also be in other solid colors."
+  ],
+  "West Highland White Terrier": [
+    "Small, compact terrier with a pure white, wiry coat.",
+    "Distinctive, pointed ears and a bushy tail.",
+    "Has a round face with a black nose and small, dark eyes.",
+    "Short legs and a sturdy, muscular build."
+  ],
+  "Golden Retriever": [
+    "Medium to large breed with a dense, golden coat.",
+    "Long, flowing fur with feathering on the legs and tail.",
+    "Friendly, expressive eyes and a broad, powerful build.",
+    "Tail is often seen wagging and covered with long, dense fur."
+  ],
+  "Labrador Retriever": [
+    "Medium to large breed with a short, dense coat.",
+    "Coat colors are typically black, yellow, or chocolate.",
+    "Strong, muscular build with a broad head and expressive eyes.",
+    "Tail is thick at the base and tapers to a point."
+  ],
+  "Cocker Spaniels": [
+    "Medium-sized breed with long, wavy fur and distinctive long ears.",
+    "Often has a silky coat in various colors, including black, tan, and red.",
+    "Large, round eyes and a gentle expression.",
+    "Short legs and a compact, muscular body."
+  ],
+  "Collie": [
+    "Large herding dog with a long, flowing coat.",
+    "Typically seen in sable and white, or blue merle colors.",
+    "Long, slender head with a distinctive ruff around the neck.",
+    "Graceful build with a straight, bushy tail."
+  ],
+  "Border Collie": [
+    "Medium-sized herding dog with a sleek, athletic build.",
+    "Short to medium coat that can be smooth or rough, often in black and white.",
+    "Has a distinctive, intelligent expression with alert eyes.",
+    "Strong, agile body with a bushy tail."
+  ],
+  "Rottweiler": [
+    "Large, robust breed with a strong, muscular build.",
+    "Short, black coat with distinctive tan markings.",
+    "Broad head with powerful jaws and a characteristic gait.",
+    "Tail is often docked or naturally short."
+  ],
+  "German Shepherd Dog": [
+    "Large, versatile breed with a strong, athletic build.",
+    "Coat can be black and tan, sable, or all black, with a dense undercoat.",
+    "Has a distinct, angular body shape and a bushy tail.",
+    "Large, erect ears and a powerful, intelligent expression."
+  ],
+  "Boxer": [
+    "Medium to large breed with a strong, muscular build.",
+    "Short coat in colors such as fawn, brindle, or white.",
+    "Distinctive square muzzle and large, expressive eyes.",
+    "Tail is often docked, and ears may be cropped or left natural."
+  ],
+  "French Bulldog": [
+    "Small breed with a compact, muscular body.",
+    "Distinctive bat-like ears and a flat, wrinkled face.",
+    "Short coat that can be brindle, fawn, or white.",
+    "Short legs and a characteristic bat-like expression."
+  ],
+  "Saint Bernard": [
+    "Large, powerful breed with a dense, long coat.",
+    "Typically seen in a combination of white with brown or red markings.",
+    "Has a broad head, expressive eyes, and a distinctive saintly look.",
+    "Strong, muscular build with a thick, bushy tail."
+  ],
+  "Husky": [
+    "Medium-sized sled dog with a dense, double coat.",
+    "Typically has a striking coat in patterns of black, gray, or red with white markings.",
+    "Distinctive blue or multicolored eyes and a bushy tail.",
+    "Athletic build with a friendly, alert expression."
+  ],
+  "Dalmatian": [
+    "Medium to large breed known for its distinctive black or liver spotted coat.",
+    "Has a sleek, muscular body and a smooth, short coat.",
+    "Large, rounded eyes and a characteristic, spotted appearance.",
+    "Tail is long and thin, often seen wagging."
+  ],
+  "Pug": [
+    "Small breed with a compact, muscular body and a wrinkled face.",
+    "Distinctive flat nose and large, round eyes.",
+    "Short coat in colors such as fawn, black, or silver.",
+    "Tail is tightly curled and has a charming, expressive face."
+  ],
+  "Pomeranian": [
+    "Small breed with a fluffy, double coat and a distinctive puffed appearance.",
+    "Typically orange, white, or black in color.",
+    "Has a fox-like face with a pointed muzzle and large, erect ears.",
+    "Compact, sturdy build with a feathered tail that curls over the back."
+  ],
+  "Chow Chow": [
+    "Medium-sized breed with a distinctive, lion-like mane of fur around the neck.",
+    "Coat can be rough or smooth and is typically in shades of red, black, blue, or cream.",
+    "Flat face with deep-set eyes and a characteristic scowl expression.",
+    "Tail is bushy and curled over the back."
+  ],
+  "Pembroke Welsh Corgi": [
+    "Small breed with a long, low body and short legs.",
+    "Typically has a smooth coat in colors such as red, sable, or tricolor.",
+    "Distinctive, upright ears and a bushy tail.",
+    "Rounded body with a friendly, alert expression."
+  ],
+  "Toy Poodle": [
+    "Small breed with a curly, hypoallergenic coat.",
+    "Coat can be in various solid colors including black, white, or apricot.",
+    "Has a slender, graceful build with a distinctive, rounded head.",
+    "Tail is often docked or kept short."
+  ],
+  "Standard Poodle": [
+    "Medium to large breed with a curly, hypoallergenic coat.",
+    "Coat is often seen in a variety of solid colors including black, white, and brown.",
+    "Has a strong, elegant build with a distinctive, rounded head.",
+    "Tail is often docked or kept short."
+  ],
+  "Timber Wolf": [
+    "Large, wild canine with a thick, gray or brown coat.",
+    "Has a broad head and erect ears.",
+    "Distinctive bushy tail and long legs.",
+    "Powerful build with a robust body adapted for hunting."
+  ],
+  "Hyena": [
+    "Medium-sized carnivore with a sloping back and powerful jaws.",
+    "Coat is usually brown or gray with distinctive black spots.",
+    "Long legs and a large, rounded head.",
+    "Hunched appearance with a distinctive, laugh-like vocalization."
+  ],
+  "Red Fox": [
+    "Medium-sized carnivore with a reddish-brown coat and bushy tail.",
+    "White underbelly and black legs with distinctive facial markings.",
+    "Has large, pointed ears and a slender body.",
+    "Tail is long and bushy, often used for balance."
+  ],
+  "Tabby Cat": [
+    "Medium-sized domestic cat with a distinctive striped or spotted coat.",
+    "Coat colors include brown, gray, or orange with various patterns.",
+    "Has a slender, agile body with a long, flexible tail.",
+    "Typically has large, expressive eyes and a smooth, sleek fur."
+  ],
+  "Leopard": [
+    "Large feline with a distinctive coat pattern of rosettes and spots.",
+    "Coat is usually golden-yellow with black spots.",
+    "Powerful, muscular build with long legs and a long tail.",
+    "Has a broad head with sharp eyes and a strong jaw."
+  ],
+  "Snow Leopard": [
+    "Large feline with a thick, grayish-white coat covered in black rosettes.",
+    "Coat is adapted for cold climates and has a long, bushy tail.",
+    "Powerful limbs and large paws for traversing snowy terrain.",
+    "Distinctive face with high cheekbones and large, rounded ears."
+  ],
+  "Lion": [
+    "Large feline with a tawny-yellow coat and a distinctive mane (males).",
+    "Powerful build with a broad head and muscular limbs.",
+    "Tail has a tuft of hair at the end.",
+    "Mane is typically a darker color than the body."
+  ],
+  "Tiger": [
+    "Large feline with a striking orange coat and black stripes.",
+    "Has a muscular build with a broad head and powerful legs.",
+    "Tail is long and often marked with black rings.",
+    "Distinctive stripes are unique to each individual."
+  ],
+  "Cheetah": [
+    "Large, slender feline with a tan coat and black spots.",
+    "Built for speed with long legs and a flexible spine.",
+    "Distinctive tear marks running from the eyes to the mouth.",
+    "Tail is long and used for balance during high-speed chases."
+  ],
+  "Polar Bear": [
+    "Large, white bear with a thick, insulating coat.",
+    "Has a robust, cylindrical body with a relatively small head.",
+    "Powerful limbs and large, black nose adapted for cold climates.",
+    "Feet are large and webbed for swimming."
+  ],
+  "Meerkat": [
+    "Small, slender mammal with a brown or gray coat.",
+    "Distinctive, upright posture and large, round eyes.",
+    "Has a long, thin tail and sharp claws for digging.",
+    "Small face with a pointed snout and large, alert ears."
+  ],
+  "Ladybug": [
+    "Small beetle with a domed, red or orange body with black spots.",
+    "Typically has six legs and two antennae.",
+    "Brightly colored with a smooth, shiny appearance.",
+    "Wings are covered by a hard, protective shell."
+  ],
+  "Fly": [
+    "Small insect with two transparent wings and a pair of large, compound eyes.",
+    "Body is usually slender and often dark in color.",
+    "Has six legs and a pair of antennae.",
+    "Wings beat rapidly, creating a characteristic buzzing sound."
+  ],
+  "Bee": [
+    "Small to medium insect with a furry, yellow and black striped body.",
+    "Has two pairs of wings and six legs.",
+    "Typically has a stinger and a pair of antennae.",
+    "Body is covered in fine hairs for collecting pollen."
+  ],
+  "Ant": [
+    "Small insect with a segmented body divided into head, thorax, and abdomen.",
+    "Typically has six legs and two antennae.",
+    "Body can be reddish, black, or brown, often with a shiny appearance.",
+    "Antennal segments and mandibles are used for communication and carrying objects."
+  ],
+  "Grasshopper": [
+    "Medium-sized insect with long, slender legs and large hind legs for jumping.",
+    "Typically green or brown with a smooth body.",
+    "Has two pairs of wings, with the hind pair being larger.",
+    "Long antennae and a distinctive, loud chirping sound."
+  ],
+  "Cockroach": [
+    "Medium to large insect with a flat, oval body and long, spiny legs.",
+    "Typically brown or reddish with a shiny, smooth exoskeleton.",
+    "Has long antennae and two pairs of wings.",
+    "Commonly seen in urban areas and has a distinctive, rapid scuttling movement."
+  ],
+  "Mantis": [
+    "Medium-sized insect with a triangular head and large, folded forelegs.",
+    "Body is typically green or brown, with a long, slender abdomen.",
+    "Has two pairs of wings, with the forewings being narrow and leathery.",
+    "Large, compound eyes and a distinctive praying posture."
+  ],
+  "Dragonfly": [
+    "Medium to large insect with long, slender body and transparent wings.",
+    "Wings are often iridescent and held horizontally when at rest.",
+    "Typically has large, multifaceted eyes and a long, thin abdomen.",
+    "Colors can vary widely, including blue, green, and red."
+  ],
+  "Monarch Butterfly": [
+    "Medium-sized butterfly with striking orange and black wings.",
+    "Wings have black borders with white spots.",
+    "Distinctive, elongated body and slender antennae.",
+    "Wings are broad and rounded, with a characteristic fluttering flight."
+  ],
+  "Starfish": [
+    "Marine echinoderm with a central disc and multiple arms (usually five).",
+    "Body is usually a vibrant color like red, orange, or purple.",
+    "Arms are often thick and covered in small spines or tubercles.",
+    "Symmetrical shape with a central, star-like appearance."
+  ],
+  "Wood Rabbit": [
+    "Medium-sized rabbit with a soft, brown or gray fur coat.",
+    "Long, slender ears and a fluffy, round tail.",
+    "Body is adapted for jumping with strong, muscular hind legs.",
+    "Eyes are large and round, giving a characteristic alert appearance."
+  ],
+  "Porcupine": [
+    "Large rodent with a body covered in sharp quills.",
+    "Quills can be brown, black, or white, often with a barbed end.",
+    "Short legs and a round body with a bushy tail.",
+    "Quills are used for defense and are often seen sticking out from the body."
+  ],
+  "Fox Squirrel": [
+    "Large squirrel with a bushy tail and a reddish-brown or gray coat.",
+    "Has large, rounded ears and strong, dexterous forelimbs.",
+    "Tail is long and bushy, often used for balance.",
+    "Body is agile and suited for climbing and jumping."
+  ],
+  "Beaver": [
+    "Large rodent with a broad, flat tail and webbed hind feet.",
+    "Coat is typically brown and dense, adapted for swimming.",
+    "Has large, sharp incisors used for cutting wood.",
+    "Rounded body with a thick, furry tail."
+  ],
+  "Guinea Pig": [
+    "Small rodent with a round body and short legs.",
+    "Coat can be smooth or long, in various colors and patterns.",
+    "Has a small, rounded head with large, expressive eyes.",
+    "Tail is absent or very short, and ears are rounded."
+  ],
+  "Zebra": [
+    "Large herbivore with distinctive black and white stripes.",
+    "Body is typically a mix of vertical stripes that are unique to each individual.",
+    "Has a mane of short, upright hair and a long, tufted tail.",
+    "Distinctive stripes extend from head to tail and across the legs."
+  ],
+  "Pig": [
+    "Medium-sized domesticated mammal with a stout body and short legs.",
+    "Coat can be pink, brown, or black, often with sparse hair.",
+    "Has a broad, flat snout and large, rounded ears.",
+    "Tail is short and often curly."
+  ],
+  "Giraffe": [
+    "Tall, long-legged herbivore with a distinctive spotted coat.",
+    "Coat is usually a mix of light brown and orange with irregular patches.",
+    "Has a long neck and legs, and a distinctive ossicones (horn-like structures) on the head.",
+    "Tail is long with a tuft of hair at the end."
+  ],
+  "Elephant": [
+    "Large mammal with a trunk, tusks, and large ears.",
+    "Skin is typically gray and wrinkled.",
+    "Has a massive body with thick legs and a long, flexible trunk.",
+    "Tusks are often curved and used for various tasks, including foraging and defense."
+  ],
+  "Hippopotamus": [
+    "Large, heavy mammal with a massive, barrel-shaped body.",
+    "Skin is usually grayish-brown and thick.",
+    "Has a large head with big, rounded ears and eyes.",
+    "Short legs with webbed feet and a large, broad mouth."
+  ],
+  "Bison": [
+    "Large, robust mammal with a thick, shaggy coat.",
+    "Coat is usually brown, and the head is large with a distinctive hump.",
+    "Has a broad, muscular build with short, sturdy legs.",
+    "Prominent horns and a characteristic beard of long hair."
+  ],
+  "Gazelle": [
+    "Medium-sized antelope with a slender, graceful body.",
+    "Coat is usually light brown or tan with white underparts.",
+    "Has long, slender legs and a distinctive pair of curved horns.",
+    "Tail is long and thin with a tuft of hair at the end."
+  ],
+  "Llama": [
+    "Large, domesticated South American camelid with a long neck and legs.",
+    "Coat is typically soft and can be in various colors, including white, brown, and gray.",
+    "Has a long, slender face and large, rounded ears.",
+    "Tail is short and often carried low."
+  ],
+  "Skunk": [
+    "Small to medium-sized mammal with a distinctive black and white striped coat.",
+    "Coat is usually black with white stripes running from head to tail.",
+    "Has a bushy tail that can be raised to show the stripes.",
+    "Body is slender with short legs and a narrow head."
+  ],
+  "Badger": [
+    "Medium-sized mammal with a robust body and short legs.",
+    "Coat is usually gray with black and white markings on the head.",
+    "Has a broad head with strong claws used for digging.",
+    "Tail is short and the body is low to the ground."
+  ],
+  "Orangutan": [
+    "Large, reddish-brown ape with long, powerful arms and a distinctive, shaggy coat.",
+    "Face is round with a pronounced nose and expressive eyes.",
+    "Has long, curved fingers adapted for climbing.",
+    "Body is robust with a large, protruding abdomen."
+  ],
+  "Gorilla": [
+    "Large, powerful ape with a robust body and a dense, dark brown or black coat.",
+    "Face is broad with a pronounced brow ridge and deep-set eyes.",
+    "Has long arms and a broad chest.",
+    "Tail is absent, and body posture is often upright."
+  ],
+  "Chimpanzee": [
+    "Medium-sized ape with a dark, black or brown coat and a relatively small face.",
+    "Has long arms and legs with a more upright posture compared to other apes.",
+    "Face is expressive with a pronounced mouth and nose.",
+    "Tail is absent and body is more slender compared to gorillas."
+  ],
+  "Gibbon": [
+    "Small ape with a long, slender body and extremely long arms.",
+    "Coat is usually light-colored, such as white or tan, and smooth.",
+    "Has a distinctive, elongated face and no tail.",
+    "Arms are adapted for brachiation (swinging from branches)."
+  ],
+  "Baboon": [
+    "Large, ground-dwelling primate with a robust body and a distinctive, dog-like face.",
+    "Coat is usually brown or gray with a large, bare face.",
+    "Has a long, tapered muzzle and large canine teeth.",
+    "Tail is short and stubby."
+  ],
+  "Panda": [
+    "Large bear with a distinctive black and white coat.",
+    "Coat is primarily white with black patches around the eyes, ears, and limbs.",
+    "Has a robust body with a round face and large, black eyes.",
+    "Tail is short and furry."
+  ],
+  "Eel": [
+    "Long, slender fish with a smooth, snake-like body.",
+    "Body is usually covered in mucus and can be dark or iridescent.",
+    "Has a long, continuous dorsal fin running from head to tail.",
+    "Head is elongated with small eyes and a mouth with sharp teeth."
+  ],
+  "Clown Fish": [
+    "Small fish with a vibrant orange and white striped body.",
+    "Has three white stripes bordered by black on an orange background.",
+    "Body is oval and laterally compressed with a small, rounded head.",
+    "Fins are broad and rounded."
+  ],
+  "Puffer Fish": [
+    "Small to medium fish with a rounded body that can inflate.",
+    "Body is usually covered in spines or bumps, and can be various colors including yellow or brown.",
+    "Has a small mouth and large, bulbous eyes.",
+    "Fins are short and often used for slow, deliberate movements."
+  ],
+  "Accordion": [
+    "A musical instrument with a rectangular shape and a bellows.",
+    "Has buttons or keys on both sides, often in rows.",
+    "Typically covered in a decorative, patterned or textured material.",
+    "Produces sound by squeezing and expanding the bellows."
+  ],
+  "Ambulance": [
+    "A vehicle designed for emergency medical transport.",
+    "Typically has a high roof with emergency lights on top.",
+    "Painted in bright colors, usually with a prominent red cross or similar symbols.",
+    "Often has sliding side doors and an accessible rear compartment."
+  ],
+  "Assault Rifle": [
+    "A firearm designed for rapid fire and automatic shooting.",
+    "Typically has a long barrel, adjustable stock, and a pistol grip.",
+    "Often has a magazine or clip that holds multiple rounds.",
+    "Usually equipped with various attachments, such as scopes or grenade launchers."
+  ],
+  "Backpack": [
+    "A bag worn on the back with shoulder straps.",
+    "Usually has multiple compartments and pockets for storage.",
+    "Often made of durable, water-resistant materials.",
+    "Can have additional features like padded straps or a hip belt."
+  ],
+  "Barn": [
+    "A large, typically rectangular agricultural building.",
+    "Often made of wood or metal with a high-pitched roof.",
+    "Usually includes large doors for vehicle or animal access.",
+    "May have a silo or additional outbuildings attached."
+  ],
+  "Wheelbarrow": [
+    "A small, single-wheeled cart used for transporting loads.",
+    "Has two handles at the rear for pushing or pulling.",
+    "Typically made of metal or plastic with a large bucket.",
+    "The wheel is centrally located beneath the bucket for balance."
+  ],
+  "Basketball": [
+    "A spherical ball used in the sport of basketball.",
+    "Usually orange with a textured, rubber surface.",
+    "Has black lines running vertically and horizontally.",
+    "Designed for bouncing and shooting through a hoop."
+  ],
+  "Bathtub": [
+    "A large container for bathing, typically made of porcelain or acrylic.",
+    "Has a deep, elongated shape for lying or sitting.",
+    "Often includes faucet fixtures and may have a showerhead.",
+    "Usually found in bathrooms, often with a surrounding enclosure or curtain."
+  ],
+  "Lighthouse": [
+    "A tall, usually cylindrical structure located near coastlines.",
+    "Features a rotating light at the top to guide ships.",
+    "Often painted in bright colors with horizontal stripes or patterns.",
+    "Includes a stairway or ladder leading to the light at the top."
+  ],
+  "Beer Glass": [
+    "A cylindrical or shaped glass used for drinking beer.",
+    "Often made of clear glass with a thick base.",
+    "May have a handle or be part of a set of various glassware styles.",
+    "Shape and size can vary depending on the type of beer."
+  ],
+  "Binoculars": [
+    "Optical device for magnifying distant objects.",
+    "Typically consists of two parallel telescopes with a central focus wheel.",
+    "Has adjustable eyepieces and a robust, often rubberized exterior.",
+    "Used for viewing birds, landscapes, or other distant subjects."
+  ],
+  "Birdhouse": [
+    "A small, enclosed shelter for birds.",
+    "Typically mounted on a post or hung from a tree.",
+    "Made from wood or plastic with a hole or entryway.",
+    "Designed to provide a safe nesting place for birds."
+  ],
+  "Bow Tie": [
+    "A type of necktie with a bow shape.",
+    "Usually worn as formal wear, typically around the collar.",
+    "Made from silk or satin with a distinctive, symmetrical shape.",
+    "Secured around the neck with a strap or clip."
+  ],
+  "Broom": [
+    "A cleaning tool with a long handle and bristles at one end.",
+    "Used for sweeping floors and other surfaces.",
+    "Typically made of wood or plastic with synthetic or natural bristles.",
+    "Bristles are attached to a horizontal base at the end of the handle."
+  ],
+  "Bucket": [
+    "A cylindrical container with a handle used for carrying liquids or materials.",
+    "Made from metal, plastic, or other durable materials.",
+    "Usually has a round base and open top with a handle for carrying.",
+    "Often used for cleaning, gardening, or construction tasks."
+  ],
+  "Cauldron": [
+    "A large, deep pot used for cooking or brewing.",
+    "Typically made of cast iron or metal with three legs.",
+    "Has a rounded shape and often includes a handle or lid.",
+    "Used historically for cooking over an open fire."
+  ],
+  "Candle": [
+    "A cylindrical or tapered stick of wax with a wick.",
+    "Used for lighting, often scented or decorative.",
+    "Wax can be colored or plain, with the wick at the center.",
+    "When lit, it produces a steady flame and light."
+  ],
+  "Cannon": [
+    "A large, heavy artillery piece used for firing projectiles.",
+    "Typically has a long barrel mounted on a carriage or wheels.",
+    "Made from metal and designed to fire shells or cannonballs.",
+    "Used historically in warfare and fortifications."
+  ],
+  "Canoe": [
+    "A narrow, lightweight boat pointed at both ends.",
+    "Typically made of wood, aluminum, or composite materials.",
+    "Propelled by paddles and designed for sitting or kneeling.",
+    "Often used for recreational activities on calm waters."
+  ],
+  "Carousel": [
+    "A rotating amusement ride with seats shaped like animals or vehicles.",
+    "Features a circular platform that spins around a central axis.",
+    "Seats are often decorated with lights and painted designs.",
+    "Commonly found in amusement parks and fairs."
+  ],
+  "Castle": [
+    "A large fortified building or group of buildings.",
+    "Typically includes towers, battlements, and a moat.",
+    "Made of stone or brick with thick walls and defensive features.",
+    "Used historically as residences and military fortifications."
+  ],
+  "Mobile Phone": [
+    "A portable electronic device for communication.",
+    "Typically has a touchscreen interface and a small, rectangular shape.",
+    "Used for calling, texting, and accessing various applications.",
+    "May include features like cameras, GPS, and internet connectivity."
+  ],
+  "Cowboy Hat": [
+    "A wide-brimmed hat typically made from felt or straw.",
+    "Has a high crown and a large, sloping brim.",
+    "Often associated with Western or ranching attire.",
+    "Can be decorated with bands or feathers."
+  ],
+  "Electric Guitar": [
+    "A stringed instrument with electronic pickups and a solid body.",
+    "Typically has a sleek, curved body and a long neck.",
+    "Used in various music genres and often includes control knobs and switches.",
+    "Played by plucking or strumming the strings with a pick or fingers."
+  ],
+  "Fire Engine": [
+    "A specialized vehicle used for firefighting.",
+    "Typically has a large water tank, hoses, and firefighting equipment.",
+    "Features bright red paint and often includes emergency lights and sirens.",
+    "Designed to transport firefighters and equipment to the scene of a fire."
+  ],
+  "Flute": [
+    "A woodwind instrument with a long, slender body.",
+    "Typically made of metal, wood, or plastic with finger holes or keys.",
+    "Produces sound by blowing across an opening.",
+    "Has a smooth, cylindrical shape and is played by holding horizontally."
+  ],
+  "Gasmask": [
+    "A protective mask worn over the face to filter out harmful gases.",
+    "Typically made of rubber or plastic with a transparent eye shield.",
+    "Includes filters attached to the sides or front.",
+    "Designed for use in hazardous environments to protect the respiratory system."
+  ],
+  "Grand Piano": [
+    "A large, elegant musical instrument with a horizontal action mechanism.",
+    "Typically has a wooden case and a set of 88 keys.",
+    "Sound is produced by hammers striking strings inside the piano.",
+    "Often used in concert halls and formal settings."
+  ],
+  "Guillotine": [
+    "A historical execution device with a heavy blade that drops to sever the head.",
+    "Typically consists of a tall frame, a large blade, and a platform.",
+    "The blade is raised and then released to fall swiftly.",
+    "Used historically for capital punishment."
+  ],
+  "Hammer": [
+    "A tool with a heavy metal head attached to a long handle.",
+    "Used for driving nails, breaking objects, or shaping materials.",
+    "Typically has a flat striking face and a claw or peen opposite the face.",
+    "Handle can be made of wood, metal, or fiberglass."
+  ],
+  "Harmonica": [
+    "A small, handheld musical instrument with metal reeds and a rectangular shape.",
+    "Has multiple holes that produce different notes when blown or drawn.",
+    "Typically made of metal and plastic, with a case and reed plates.",
+    "Played by placing the mouth over the holes and using breath control."
+  ],
+  "Harp": [
+    "A stringed instrument with a triangular frame and strings stretched across it.",
+    "Typically made of wood with a resonating sound box.",
+    "Strings are plucked with fingers to produce musical notes.",
+    "Often used in classical and folk music."
+  ],
+  "Hatchet": [
+    "A small axe with a short handle and a sharp, heavy blade.",
+    "Used for chopping wood or small-scale cutting tasks.",
+    "Typically has a curved blade and a wooden or fiberglass handle.",
+    "Designed for one-handed use."
+  ],
+  "Jeep": [
+    "A rugged, off-road vehicle with a boxy shape and high ground clearance.",
+    "Typically has four-wheel drive and large, durable tires.",
+    "Often includes features like roll bars and removable doors.",
+    "Used for both civilian and military purposes."
+  ],
+  "Joystick": [
+    "A control device used for manipulating objects on a screen or controlling machinery.",
+    "Typically has a stick that moves in multiple directions and a base with buttons.",
+    "Used in gaming, simulations, and various industrial applications.",
+    "Often includes features like vibration feedback or customizable controls."
+  ],
+  "Lab Coat": [
+    "A white, knee-length coat worn over clothing in a laboratory setting.",
+    "Typically made of cotton or a cotton-blend fabric.",
+    "Has long sleeves and often includes pockets for carrying tools.",
+    "Designed to protect clothing from spills and stains."
+  ],
+  "Lawn Mower": [
+    "A machine used for cutting grass in lawns or gardens.",
+    "Typically has a rotating blade and a handle for maneuvering.",
+    "May be powered by gasoline, electricity, or battery.",
+    "Can include features like grass catchers or adjustable cutting heights."
+  ],
+  "Lipstick": [
+    "A cosmetic product applied to the lips for color and texture.",
+    "Usually comes in a small, cylindrical tube with a retractable mechanism.",
+    "Available in various colors and finishes, such as matte or glossy.",
+    "Applied directly to the lips for enhancing appearance."
+  ],
+  "Mailbox": [
+    "A container for receiving and holding mail.",
+    "Typically made of metal or plastic with a hinged door.",
+    "Often mounted on a post or wall, with a flag or slot for outgoing mail.",
+    "Usually includes a compartment for incoming mail and packages."
+  ],
+  "Missile": [
+    "A guided weapon designed for long-range attack.",
+    "Typically has a streamlined, aerodynamic shape with fins for stability.",
+    "Includes a propulsion system and an explosive warhead.",
+    "Often launched from a platform or vehicle."
+  ],
+  "Mitten": [
+    "A type of glove that covers the hand but not the fingers separately.",
+    "Typically made of knit fabric or leather.",
+    "Has a single section for the thumb and another for the remaining fingers.",
+    "Designed to keep hands warm in cold weather."
+  ],
+  "Parachute": [
+    "A device used to slow descent through the air.",
+    "Consists of a canopy made from strong, lightweight fabric.",
+    "Attached to a harness or rigging for the user to wear.",
+    "Opens to create drag and slow the descent of a person or object."
+  ],
+  "Pickup Truck": [
+    "A type of vehicle with an open cargo area and enclosed cabin.",
+    "Typically has a separate bed for transporting goods.",
+    "Features include four wheels, high ground clearance, and a robust build.",
+    "Used for carrying cargo and off-road activities."
+  ],
+  "Pirate Ship": [
+    "A vessel used by pirates, often with distinctive features like black sails and skull motifs.",
+    "Typically has multiple masts and a large deck area.",
+    "Equipped with cannons or other weaponry.",
+    "Designed for piracy and exploration."
+  ],
+  "Revolver": [
+    "A type of firearm with a rotating cylinder that holds multiple rounds.",
+    "Typically has a short barrel and a handle.",
+    "Cylinder rotates to align rounds with the firing pin.",
+    "Used for self-defense and law enforcement."
+  ],
+  "Rugby Ball": [
+    "An oval-shaped ball used in rugby games.",
+    "Typically covered in textured leather or synthetic material.",
+    "Has stitches or seams running along the surface.",
+    "Designed for handling and kicking in rugby."
+  ],
+  "Sandal": [
+    "A type of open-toed footwear with straps.",
+    "Typically made of leather, rubber, or synthetic materials.",
+    "Has a flat sole with straps that secure the foot.",
+    "Designed for casual or warm-weather wear."
+  ],
+  "Saxophone": [
+    "A brass musical instrument with a curved shape and a single-reed mouthpiece.",
+    "Has a series of keys and pads that cover tone holes.",
+    "Typically made of brass with a lacquered finish.",
+    "Played by blowing air through the mouthpiece and pressing keys."
+  ],
+  "School Bus": [
+    "A large vehicle used for transporting students to and from school.",
+    "Typically painted yellow with black trim and has large windows.",
+    "Equipped with stop signs and flashing lights for safety.",
+    "Designed for seating multiple passengers and includes safety features."
+  ],
+  "Schooner": [
+    "A type of sailing ship with two or more masts.",
+    "Typically has fore-and-aft sails and a deck that slopes downward toward the bow.",
+    "Used historically for cargo and passenger transport.",
+    "Features include multiple sails and rigging."
+  ],
+  "Shield": [
+    "A protective device used in combat or defense.",
+    "Typically made of metal or strong materials with a curved shape.",
+    "Often has a handle or straps on the back for holding.",
+    "Designed to block or deflect attacks."
+  ],
+  "Soccer Ball": [
+    "A spherical ball used in the sport of soccer.",
+    "Typically made of synthetic leather with a textured surface.",
+    "Has a pattern of hexagonal and pentagonal panels.",
+    "Designed for kicking and passing in soccer."
+  ],
+  "Space Shuttle": [
+    "A reusable spacecraft used for launching and returning from space.",
+    "Typically has a large, aerodynamic shape with wings and engines.",
+    "Includes a cargo bay and heat shield for re-entry.",
+    "Designed for crewed missions and cargo transport to orbit."
+  ],
+  "Spider Web": [
+    "A structure created by spiders using silk threads.",
+    "Typically has a radial pattern with a central hub and spiral threads.",
+    "Made from fine, sticky silk that captures prey.",
+    "Often found in corners or between objects."
+  ],
+  "Steam Locomotive": [
+    "A railway engine powered by steam.",
+    "Typically has a large, cylindrical boiler and a prominent chimney.",
+    "Features a set of driving wheels and a connecting rod mechanism.",
+    "Used historically for pulling trains along tracks."
+  ],
+  "Scarf": [
+    "A piece of clothing worn around the neck for warmth or fashion.",
+    "Typically made of wool, silk, or synthetic materials.",
+    "Usually long and narrow, with fringed or hemmed edges.",
+    "Worn over the shoulders or wrapped around the neck."
+  ],
+  "Submarine": [
+    "A watercraft capable of underwater operation.",
+    "Typically has a cylindrical shape with a conning tower or sail.",
+    "Includes ballast tanks for buoyancy control and a periscope for navigation.",
+    "Designed for stealth and underwater missions."
+  ],
+  "Tank": [
+    "A heavily armored military vehicle with tracks and a turret.",
+    "Typically has a large cannon mounted on the turret.",
+    "Equipped with thick armor plates and a powerful engine.",
+    "Designed for combat and armored warfare."
+  ],
+  "Tennis Ball": [
+    "A small, spherical ball used in tennis.",
+    "Typically covered in a bright yellow-green felt.",
+    "Has a hollow rubber core and a bouncy texture.",
+    "Designed for high-speed bouncing and striking."
+  ],
+  "Tractor": [
+    "A heavy-duty vehicle used for farming and construction.",
+    "Typically has large, wide wheels and a powerful engine.",
+    "Features a front-mounted or rear-mounted implement attachment.",
+    "Designed for pulling and carrying heavy loads."
+  ],
+  "Trombone": [
+    "A brass musical instrument with a sliding mechanism.",
+    "Has a long, cylindrical tube and a large bell.",
+    "Sound is produced by varying the slide length to change pitch.",
+    "Typically made of brass with a shiny finish."
+  ],
+  "Vase": [
+    "A decorative container used for holding flowers.",
+    "Typically made of ceramic, glass, or metal.",
+    "Often has a narrow neck and a wider base.",
+    "Designed to be ornamental as well as functional."
+  ],
+  "Violin": [
+    "A stringed instrument with a wooden body and four strings.",
+    "Typically has a curved shape and is played with a bow.",
+    "Sound is produced by drawing the bow across the strings.",
+    "Includes a fingerboard for changing pitch and fine tuners for adjustment."
+  ],
+  "Military Aircraft": [
+    "An aircraft designed for military operations.",
+    "Typically has a sleek, aerodynamic shape with advanced avionics.",
+    "May include features like camouflage paint, weaponry, and stealth technology.",
+    "Used for various roles including combat, reconnaissance, and transport."
+  ],
+  "Wine Bottle": [
+    "A glass container used for storing wine.",
+    "Typically has a long, narrow neck and a cork or screw cap.",
+    "Usually green or brown in color to protect wine from light.",
+    "Often labeled with the wine's name and vintage."
+  ],
+  "Ice Cream": [
+    "A frozen dessert made from dairy products and flavorings.",
+    "Typically served in various flavors such as vanilla, chocolate, and strawberry.",
+    "Can be presented in cones, cups, or as a sundae.",
+    "Often garnished with toppings like sprinkles or syrup."
+  ],
+  "Bagel": [
+    "A round, chewy bread product with a hole in the center.",
+    "Typically boiled before baking to achieve its dense texture.",
+    "Usually topped with seeds like sesame or poppy.",
+    "Can be served with various spreads and fillings."
+  ],
+  "Pretzel": [
+    "A baked bread product twisted into a knot shape.",
+    "Typically has acrunchy, salty exterior with a soft interior.",
+    "Often coated with coarse salt and sometimes shaped into various designs.",
+    "Commonly served as a snack or appetizer."
+  ],
+  "Cheeseburger": [
+    "A sandwich consisting of a ground beef patty with cheese.",
+    "Typically served on a bun with various toppings like lettuce, tomato, and pickles.",
+    "Often includes condiments such as ketchup and mustard.",
+    "Prepared grilled or fried with melted cheese on top."
+  ],
+  "Hotdog": [
+    "A cooked sausage served in a sliced bun.",
+    "Typically made from beef, pork, or a combination of meats.",
+    "Often garnished with mustard, ketchup, onions, or relish.",
+    "Commonly served at barbecues and sporting events."
+  ],
+  "Cabbage": [
+    "A leafy green vegetable with a compact, round shape.",
+    "Typically has a dense head of tightly packed leaves.",
+    "Can be green, red, or white in color.",
+    "Used in salads, soups, and various dishes."
+  ],
+  "Broccoli": [
+    "A green vegetable with a tree-like structure.",
+    "Consists of a thick stalk and a crown of florets.",
+    "Typically has a vibrant green color and a dense texture.",
+    "Used in salads, stir-fries, and as a side dish."
+  ],
+  "Cucumber": [
+    "A long, green vegetable with a crisp, watery texture.",
+    "Typically has a smooth, thin skin and is cylindrical in shape.",
+    "Used in salads, sandwiches, and as a garnish.",
+    "Can be eaten raw or pickled."
+  ],
+  "Bell Pepper": [
+    "A vegetable with a bell-shaped structure and a crunchy texture.",
+    "Available in various colors including red, green, yellow, and orange.",
+    "Typically has smooth skin and a hollow interior with seeds.",
+    "Used in salads, stir-fries, and as a flavor enhancer."
+  ],
+  "Mushroom": [
+    "A fungal organism with a rounded cap and a stalk.",
+    "Typically has a spongy or gilled underside.",
+    "Available in various types and colors, including white, brown, and shiitake.",
+    "Used in cooking for its umami flavor."
+  ],
+  "Granny Smith": [
+    "A variety of green apple known for its tart flavor.",
+    "Typically has a crisp texture and bright green skin.",
+    "Often used in baking, salads, and as a snack.",
+    "Named after the Granny Smith apple variety."
+  ],
+  "Strawberry": [
+    "A red, heart-shaped fruit with small seeds on the surface.",
+    "Typically has a juicy, sweet flavor and a soft texture.",
+    "Often used in desserts, salads, and as a topping.",
+    "Grows on low-lying plants with green leaves."
+  ],
+  "Lemon": [
+    "A yellow citrus fruit with a tangy flavor.",
+    "Typically has a round shape and a textured, dimpled skin.",
+    "Used for its juice and zest in cooking and drinks.",
+    "Has a bright yellow color when ripe."
+  ],
+  "Pineapple": [
+    "A tropical fruit with a spiky, rough exterior and sweet interior.",
+    "Typically has a cylindrical shape and a tuft of green leaves on top.",
+    "Used in cooking, baking, and beverages.",
+    "Has a yellow, juicy flesh inside."
+  ],
+  "Banana": [
+    "A long, curved fruit with a yellow, peelable skin.",
+    "Typically has a soft, sweet flesh inside.",
+    "Grows in clusters on banana plants.",
+    "Commonly eaten fresh or used in baking and smoothies."
+  ],
+  "Pomegranate": [
+    "A round fruit with a thick, red rind and numerous seeds.",
+    "Typically has a jewel-like interior with edible arils.",
+    "Used in cooking, salads, and as a juice.",
+    "Features a crown-like top where the fruit attaches to the plant."
+  ],
+  "Pizza": [
+    "A round, flatbread topped with various ingredients.",
+    "Typically has a crust with tomato sauce, cheese, and toppings like vegetables or meats.",
+    "Baked in an oven and cut into slices.",
+    "Often served as a casual meal or party food."
+  ],
+  "Burrito": [
+    "A Mexican dish consisting of a tortilla wrapped around fillings.",
+    "Typically includes ingredients like rice, beans, meat, and vegetables.",
+    "Served rolled up with the ends tucked in.",
+    "Can be topped with sauces, cheese, or sour cream."
+  ],
+  "Espresso": [
+    "A strong coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "Typically served in small, concentrated shots.",
+    "Has a rich, bold flavor and a thick crema on top.",
+    "Used as a base for various coffee drinks like lattes and cappuccinos."
+  ],
+  "Volcano": [
+    "A geological formation where molten rock, ash, and gases erupt.",
+    "Typically has a conical shape with a crater at the top.",
+    "Includes features like lava flows, ash clouds, and volcanic cones.",
+    "Found in volcanic regions and active during eruptions."
+  ],
+  "Baseball Player": [
+    "An athlete who plays the sport of baseball.",
+    "Typically wears a uniform including a jersey, cap, and protective gear.",
+    "Uses a bat to hit a pitched ball and a glove for fielding.",
+    "Positions include pitcher, catcher, and various fielding positions."
+  ],
+  "Scuba Diver": [
+    "An individual who uses a self-contained underwater breathing apparatus (SCUBA) to explore underwater.",
+    "Typically wears a wetsuit or drysuit, mask, fins, and a tank.",
+    "Includes equipment like regulators and gauges for underwater breathing.",
+    "Engages in activities like underwater exploration, photography, and research."
+  ],
+  "Acorn": [
+    "The nut of an oak tree, typically with a hard shell and a cap.",
+    "Has a rounded or oval shape with a tan or brown color.",
+    "Contains a single seed inside a tough outer shell.",
+    "Often used as food for wildlife and in decorative crafts."
+  ]
+}
