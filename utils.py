@@ -1,16 +1,3 @@
-# ------------------------------------------
-# Copyright (c) 2015-present, Facebook, Inc.
-# All rights reserved.
-# ------------------------------------------
-# Modification:
-# Added code for dualprompt implementation
-# -- Jaeho Lee, dlwogh9344@khu.ac.kr
-# ------------------------------------------
-"""
-Misc functions, including distributed helpers.
-
-Mostly copy-paste from torchvision references.
-"""
 import io
 import os
 import time
